@@ -1,0 +1,7 @@
+com.example.survivalisland.app-pngs-0 /data/data/com.termux/files/home/SurvivalIsland/app/build/generated/res/pngs/debug
+com.example.survivalisland.app-resValues-1 /data/data/com.termux/files/home/SurvivalIsland/app/build/generated/res/resValues/debug
+com.example.survivalisland.app-packageDebugResources-2 /data/data/com.termux/files/home/SurvivalIsland/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.survivalisland.app-packageDebugResources-3 /data/data/com.termux/files/home/SurvivalIsland/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.survivalisland.app-debug-4 /data/data/com.termux/files/home/SurvivalIsland/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.survivalisland.app-debug-5 /data/data/com.termux/files/home/SurvivalIsland/app/src/debug/res
+com.example.survivalisland.app-main-6 /data/data/com.termux/files/home/SurvivalIsland/app/src/main/res

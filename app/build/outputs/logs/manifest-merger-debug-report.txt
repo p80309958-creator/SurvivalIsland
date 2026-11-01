@@ -1,0 +1,49 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /data/data/com.termux/files/home/SurvivalIsland/app/src/main/AndroidManifest.xml:1:1-9:12
+INJECTED from /data/data/com.termux/files/home/SurvivalIsland/app/src/main/AndroidManifest.xml:1:1-9:12
+INJECTED from /data/data/com.termux/files/home/SurvivalIsland/app/src/main/AndroidManifest.xml:1:1-9:12
+INJECTED from /data/data/com.termux/files/home/SurvivalIsland/app/src/main/AndroidManifest.xml:1:1-9:12
+	package
+		INJECTED from /data/data/com.termux/files/home/SurvivalIsland/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /data/data/com.termux/files/home/SurvivalIsland/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /data/data/com.termux/files/home/SurvivalIsland/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /data/data/com.termux/files/home/SurvivalIsland/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /data/data/com.termux/files/home/SurvivalIsland/app/src/main/AndroidManifest.xml:2:2-8:16
+INJECTED from /data/data/com.termux/files/home/SurvivalIsland/app/src/main/AndroidManifest.xml:2:2-8:16
+	android:extractNativeLibs
+		INJECTED from /data/data/com.termux/files/home/SurvivalIsland/app/src/main/AndroidManifest.xml
+	android:label
+		ADDED from /data/data/com.termux/files/home/SurvivalIsland/app/src/main/AndroidManifest.xml:2:47-78
+	android:theme
+		ADDED from /data/data/com.termux/files/home/SurvivalIsland/app/src/main/AndroidManifest.xml:2:15-46
+activity#com.example.survivalisland.MainActivity
+ADDED from /data/data/com.termux/files/home/SurvivalIsland/app/src/main/AndroidManifest.xml:3:3-7:14
+	android:screenOrientation
+		ADDED from /data/data/com.termux/files/home/SurvivalIsland/app/src/main/AndroidManifest.xml:3:42-79
+	android:exported
+		ADDED from /data/data/com.termux/files/home/SurvivalIsland/app/src/main/AndroidManifest.xml:3:80-103
+	android:name
+		ADDED from /data/data/com.termux/files/home/SurvivalIsland/app/src/main/AndroidManifest.xml:3:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /data/data/com.termux/files/home/SurvivalIsland/app/src/main/AndroidManifest.xml:4:4-6:20
+action#android.intent.action.MAIN
+ADDED from /data/data/com.termux/files/home/SurvivalIsland/app/src/main/AndroidManifest.xml:5:5-56
+	android:name
+		ADDED from /data/data/com.termux/files/home/SurvivalIsland/app/src/main/AndroidManifest.xml:5:13-54
+category#android.intent.category.LAUNCHER
+ADDED from /data/data/com.termux/files/home/SurvivalIsland/app/src/main/AndroidManifest.xml:5:56-115
+	android:name
+		ADDED from /data/data/com.termux/files/home/SurvivalIsland/app/src/main/AndroidManifest.xml:5:66-113
+uses-sdk
+INJECTED from /data/data/com.termux/files/home/SurvivalIsland/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /data/data/com.termux/files/home/SurvivalIsland/app/src/main/AndroidManifest.xml
+INJECTED from /data/data/com.termux/files/home/SurvivalIsland/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /data/data/com.termux/files/home/SurvivalIsland/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /data/data/com.termux/files/home/SurvivalIsland/app/src/main/AndroidManifest.xml
